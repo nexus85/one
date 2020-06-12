@@ -1,2 +1,5 @@
-venv/*
 *.un~
+venv/*
+/venv/*
+.idea/*
+/.idea/*
